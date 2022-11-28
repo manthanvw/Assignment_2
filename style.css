@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(252,248,232);
+}
+nav{
+    background-color: rgb(189,93,56);
+}
+.container
+{
+    max-width:none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.Profile
+{
+    border-radius: 50%;
+    border: 9px solid rgb(189,93,56);
+    height: 250px;
+    float:right;
+    position: relative;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+#profilePic{
+    text-align: right;
+}
+a,h1,h2,h3,h4,h5,p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+table{
+    margin-left: 10px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(158, 154, 154);
+}
+.navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.nav-link:hover{
+    color:white !important;
+}
+table {
+     background-color: #fcf8e8;
+     width: 1100px;
+     padding: 10px;
+    }
+th {
+     background-color: #94b49f;
+      border: 1px solid black;
+      padding-left: 5px;
+      font-size: 20px;
+}
+table tr td{
+    border: 1px solid black;
+    padding-left: 5px;
+}
